@@ -52,7 +52,7 @@ text-transform: uppercase;
 
 @media screen and (max-width:640px)  {
     .hero .content h1{
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
 
     .hero .content p{
