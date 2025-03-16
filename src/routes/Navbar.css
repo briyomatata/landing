@@ -58,6 +58,8 @@
         font-size: 20px;
     }
     .hamburger{
-        display: initial;
+        display: none;
     }
+
+   
 }
