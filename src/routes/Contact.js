@@ -3,7 +3,9 @@ import "./Contact.css"
 
 function Form() {
   return (
-    <div className='form'>
+
+    <div className='container'>
+       <div className='form'>
         <div className='centered-title'>
             <h1>Contact Us</h1>
         </div>
@@ -22,7 +24,9 @@ function Form() {
 
             <button className='btn'>Submit</button>
         </form>
+        </div>
     </div>
+   
   )
 }
 

@@ -12,14 +12,14 @@ function Footer() {
                 <div className="phone"> 
                <h4>
                <FaPhone  size={20} style={{color: "#fff", marginRight: "2rem"}}/>
-               +25471234567
+               +254729803389
                </h4>
                 </div>
 
                 <div className="email"> 
                <h4>
                <FaMailBulk  size={20} style={{color: "#fff", marginRight: "2rem"}}/>
-               email@gmail.com
+               joash@gmail.com
                </h4>
                 </div>
             </div>
