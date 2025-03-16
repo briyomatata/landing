@@ -28,7 +28,7 @@ function Navbar() {
   return (
     <div className={color ? "header header-bg" : "header"}>
         <Link to="">
-        <h1>M&E</h1>
+        <h1>MEtrImpact Consultancy</h1>
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>

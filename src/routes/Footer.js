@@ -19,7 +19,7 @@ function Footer() {
                 <div className="email"> 
                <h4>
                <FaMailBulk  size={20} style={{color: "#fff", marginRight: "2rem"}}/>
-               joash@gmail.com
+               joashowinolwaga@gmail.com
                </h4>
                 </div>
             </div>
